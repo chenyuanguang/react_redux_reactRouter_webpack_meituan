@@ -41,3 +41,8 @@ npm start
 ```bash  
 npm build
 ```
+
+## 路由：
+
+* 默认路由为首页；
+* 注册页面的路由为："/register"
